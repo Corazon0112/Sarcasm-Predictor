@@ -180,4 +180,4 @@ Optimized using GridSearchCV with 5-fold stratified cross-validation:
 1. Joshi, Aditya, et al. "Automatic Sarcasm Detection: A Survey." ArXiv.org, 2016.
 2. Karmaker, Subrata. "Sarcasm Detection on Reddit Using Classical Machine Learning and Feature Engineering." ArXiv.org, 2025.
 
-**Note**: This model does not use transformer architectures (BERT, GPT, RoBERTa) as per assignment constraints. It demonstrates that traditional machine learning with thoughtful feature engineering can achieve strong performance on NLP tasks.
+**Note**: This model does not use transformer architectures (BERT, GPT, RoBERTa). It demonstrates that traditional machine learning with thoughtful feature engineering can achieve strong performance on NLP tasks.
